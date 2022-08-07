@@ -1,0 +1,20 @@
+.glass{
+    backdrop-filter: blur(8px) saturate(103%);
+    -webkit-backdrop-filter: blur(8px) saturate(103%);
+    background-color: rgba(255, 255, 255, 0.32);
+    border-radius: 12px;
+    border: 1px solid rgba(209, 213, 219, 0.3);
+}
+
+.glass2{
+    backdrop-filter: blur(0px) saturate(103%);
+    -webkit-backdrop-filter: blur(8px) saturate(103%);
+    background-color: rgba(255, 255, 255, 0.32);
+    border-radius: 12px;
+    border: 1px solid rgba(209, 213, 219, 0.3);
+}
+
+.background{
+    background-image: url('https://images.pexels.com/photos/305565/pexels-photo-305565.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+    background-position: center;
+}
